@@ -1,0 +1,3 @@
+CREATE DATABASE service_b;
+CREATE DATABASE service_c;
+CREATE DATABASE service_d;
